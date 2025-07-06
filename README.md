@@ -16,4 +16,7 @@
 palmora_hr_data.csv: Cleaned HR data
 bonus_rules.csv: Performance-to-bonus mappings
 
+## 📊 Tools Used
+power bi 
+
 
