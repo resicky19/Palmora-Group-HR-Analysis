@@ -18,5 +18,10 @@ bonus_rules.csv: Performance-to-bonus mappings
 
 ## 📊 Tools Used
  - Power bi (for report)
+
+## Analysis
+
+
+
  
 
